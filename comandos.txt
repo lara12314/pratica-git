@@ -1,0 +1,5 @@
+cd - entra nos arquivos
+git init - inicia um repertorio git criando um arquivo .git
+git add - adiciona mudancas ao arquivo
+git commit - comenta no arquivo
+mkdir - cria um arquivo
