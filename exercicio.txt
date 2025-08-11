@@ -1,0 +1,3 @@
+git init - serve para iniciar os comandos git e cria uma pasta .git no arquivo
+git commit - serve para comentar alteracoes
+cd - entra no arquivo
